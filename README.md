@@ -23,7 +23,7 @@ You can access the full article here: [Powering the Future: An Analytical Journe
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/electric-vehicle-eda.git
+git clone https://github.com/anpabeltj/electric-vehicle-eda.git
 cd electric-vehicle-eda
 ```
 
